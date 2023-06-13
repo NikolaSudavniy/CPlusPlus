@@ -1,0 +1,5 @@
+﻿  calc.cpp
+D:\Nikola_Sudavniy\repozitories\reps_Hg\c-homework\Calc_exam\calc.cpp(28,14): warning C4101: 'j': unreferenced local variable
+  main.cpp
+  Generating Code...
+  Calc_exam.vcxproj -> D:\Nikola_Sudavniy\repozitories\reps_Hg\c-homework\Calc_exam\x64\Debug\Calc_exam.exe
